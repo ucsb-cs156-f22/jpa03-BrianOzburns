@@ -4,6 +4,8 @@ Storybook is here:
 * Production: <https://ucsb-cs156-f22.github.io/jpa03-BrianOzburns-docs/>
 * QA:  <https://ucsb-cs156-f22.github.io/jpa03-BrianOzburns-docs-qa/>
 
+[![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-BrianOzburns/branch/main/graph/badge.svg?token=SX251J9ZEX)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-BrianOzburns)
+
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
 If these repos are not yet setup, see the setup steps in [`docs/storybook.md`](docs/storybook.md).
