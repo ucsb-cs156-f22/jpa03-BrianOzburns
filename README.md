@@ -1,5 +1,7 @@
 # demo-spring-react-example-v2: dsre-v2
 
+Github repo: <https://github.com/ucsb-cs156-f22/jpa03-BrianOzburns>
+
 Storybook is here:
 * Production: <https://ucsb-cs156-f22.github.io/jpa03-BrianOzburns-docs/>
 * QA:  <https://ucsb-cs156-f22.github.io/jpa03-BrianOzburns-docs-qa/>
